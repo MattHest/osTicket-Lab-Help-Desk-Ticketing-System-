@@ -57,7 +57,13 @@ In this lab, I deployed and configured an osTicket help desk system in a Windows
 - Troubleshooting & Resolution Workflow
 - Customer Communication
 - Documentation & Ticket Notes
+## What I Learned
 
+- How ticketing systems manage and track user issues from creation to resolution
+- The importance of SLAs and prioritization in handling critical incidents
+- How user roles, departments, and teams affect ticket routing
+- Real-world troubleshooting workflow within a help desk environment
+- The importance of documentation and clear communication in IT support
 ---
 
 ## Screenshots
