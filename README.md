@@ -62,7 +62,37 @@ In this lab, I deployed and configured an osTicket help desk system in a Windows
 
 ## Screenshots
 
-*(Screenshots demonstrating setup and ticket workflows are included in the images folder.)*
+### Ticket Creation (User Side)
+![Ticket Creation](images/osticket-ticket-creation.png)
+
+### Emergency Ticket – Banking Outage
+![Emergency Ticket](images/banking-system-outage-emergency-ticket.png)
+
+### Ticket Resolution – Banking Outage
+![Resolved Ticket](images/banking-outage-ticket-resolved.png)
+
+### Account Lockout Resolution
+![Account Lockout](images/account-lockout-ticket-resolution.png)
+
+---
+
+### Azure VM Hosting osTicket
+![Azure VM](images/azure-vm-hosting-osticket.png)
+
+### IIS Configuration
+![IIS](images/iis-configuration-osticket.png)
+
+### Database Configuration (HeidiSQL)
+![Database](images/osticket-database-heidisql.png)
+
+### Agent Management
+![Agents](images/osticket-agent-management.png)
+
+### Department Configuration
+![Departments](images/osticket-department-configuration.png)
+
+### Team Configuration
+![Teams](images/osticket-team-configuration.png)
 
 ---
 
