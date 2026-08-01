@@ -132,5 +132,4 @@ This lab demonstrates my ability to configure and use a ticketing system in a re
 ## Author
 
 Matthew Hestand  
-Aspiring IT Support Specialist  
-CompTIA A+ (Core 1 Passed)
+
